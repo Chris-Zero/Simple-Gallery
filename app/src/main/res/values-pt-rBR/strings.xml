@@ -5,7 +5,7 @@
     <string name="edit">Editar</string>
     <string name="open_camera">Abrir câmera</string>
     <string name="hidden">(oculto)</string>
-    <string name="excluded">(excluded)</string>
+    <string name="excluded">(excluído)</string>
     <string name="pin_folder">Fixar pasta</string>
     <string name="unpin_folder">Desfixar pasta</string>
     <string name="pin_to_the_top">Fixar no topo</string>
@@ -24,20 +24,20 @@
     <string name="brightness">Brilho</string>
     <string name="lock_orientation">Travar orientação</string>
     <string name="unlock_orientation">Destravar orientação</string>
-    <string name="change_orientation">Change orientation</string>
-    <string name="force_portrait">Force portrait</string>
-    <string name="force_landscape">Force landscape</string>
-    <string name="use_default_orientation">Use default orientation</string>
-    <string name="fix_date_taken">Fix Date Taken value</string>
-    <string name="fixing">Fixing…</string>
-    <string name="dates_fixed_successfully">Dates fixed successfully</string>
+    <string name="change_orientation">Mudar orientação da tela</string>
+    <string name="force_portrait">Forçar orientação para Retrato</string>
+    <string name="force_landscape">Forçar orientação para Paisagem</string>
+    <string name="use_default_orientation">Usar a orietação padrão</string>
+    <string name="fix_date_taken">Corrigir o valor de data atribuído</string>
+    <string name="fixing">Corrigindo…</string>
+    <string name="dates_fixed_successfully">Datas corrigidas com sucesso</string>
 
     <!-- Filter -->
     <string name="filter_media">Filtrar mídia</string>
     <string name="images">Imagens</string>
     <string name="videos">Vídeos</string>
     <string name="gifs">GIFs</string>
-    <string name="raw_images">RAW images</string>
+    <string name="raw_images">imagens RAW</string>
     <string name="svgs">SVGs</string>
     <string name="no_media_with_filters">Nenhum arquivo de mídia encontrado a partir dos filtros selecionados.</string>
     <string name="change_filters_underlined"><u>Mudar filtros</u></string>
@@ -87,8 +87,8 @@
     <string name="flip">Inverter</string>
     <string name="flip_horizontally">Horizontalmente</string>
     <string name="flip_vertically">Verticalmente</string>
-    <string name="free_aspect_ratio">Free</string>                  <!-- available as an option: 1:1, 4:3, 16:9, free -->
-    <string name="other_aspect_ratio">Other</string>                <!-- available as an option: 1:1, 4:3, 16:9, free, other -->
+    <string name="free_aspect_ratio">Livre</string>                  <!-- available as an option: 1:1, 4:3, 16:9, free -->
+    <string name="other_aspect_ratio">Outro</string>                <!-- available as an option: 1:1, 4:3, 16:9, free, other -->
 
     <!-- Set wallpaper -->
     <string name="simple_wallpaper">Simple Wallpaper</string>
@@ -115,36 +115,36 @@
     <string name="loop_slideshow">Apresentação em ciclo</string>
     <string name="slideshow_ended">Fim da apresentação</string>
     <string name="no_media_for_slideshow">Nenhuma mídia encontrada para a apresentação</string>
-    <string name="use_crossfade_animation">Use crossfade animations</string>
+    <string name="use_crossfade_animation">Usar animações de transição</string>
 
     <!-- View types -->
     <string name="change_view_type">Alterar modo de visualização</string>
     <string name="grid">Grade</string>
     <string name="list">Lista</string>
-    <string name="group_direct_subfolders">Group direct subfolders</string>
+    <string name="group_direct_subfolders">Agrupar sub-pastas diretas</string>
 
     <!-- Grouping at media thumbnails -->
-    <string name="group_by">Group by</string>
-    <string name="do_not_group_files">Do not group files</string>
-    <string name="by_folder">Folder</string>
-    <string name="by_last_modified">Last modified</string>
-    <string name="by_date_taken">Date taken</string>
-    <string name="by_file_type">File type</string>
-    <string name="by_extension">Extension</string>
+    <string name="group_by">Agrupar por</string>
+    <string name="do_not_group_files">Não agrupar arquivos</string>
+    <string name="by_folder">Pasta</string>
+    <string name="by_last_modified">Última modificação</string>
+    <string name="by_date_taken">Data</string>
+    <string name="by_file_type">Tipo de arquivo</string>
+    <string name="by_extension">Extensão</string>
 
     <!-- Widgets -->
-    <string name="folder_on_widget">Folder shown on the widget:</string>
-    <string name="show_folder_name">Show folder name</string>
+    <string name="folder_on_widget">Pasta mostrada na funcionalidade:</string>
+    <string name="show_folder_name">Mostrar nome da pasta</string>
 
     <!-- Settings -->
     <string name="autoplay_videos">Reproduzir vídeos automaticamente</string>
-    <string name="remember_last_video_position">Remember last video playback position</string>
+    <string name="remember_last_video_position">Lembrar a última posição no vídeo</string>
     <string name="toggle_filename">Mostrar/ocultar nome do arquivo</string>
     <string name="loop_videos">Reproduzir vídeos em ciclo</string>
     <string name="animate_gifs">Animação de GIFs nas miniaturas</string>
     <string name="max_brightness">Brilho máximo ao visualizar mídia</string>
     <string name="crop_thumbnails">Recortar miniaturas em quadrados</string>
-    <string name="show_thumbnail_video_duration">Show video durations</string>
+    <string name="show_thumbnail_video_duration">Mostrar duração do vídeo</string>
     <string name="screen_rotation_by">Critério para rotação de tela</string>
     <string name="screen_rotation_system_setting">Padrão do sistema</string>
     <string name="screen_rotation_device_rotation">Sensor do aparelho</string>
@@ -161,88 +161,88 @@
     <string name="manage_extended_details">Gerenciar detalhes extendidos</string>
     <string name="one_finger_zoom">Permitir zoom com um dedo quando em exibição de tela cheia</string>
     <string name="allow_instant_change">Permitir alternância instantânia de mídia clicando nas laterais da tela</string>
-    <string name="allow_deep_zooming_images">Allow deep zooming images</string>
+    <string name="allow_deep_zooming_images">Permitir zoom profundo nas imagens</string>
     <string name="hide_extended_details">Ocultar detalhes extendidos quando a barra de status estiver oculta</string>
     <string name="do_extra_check">Realizar verificação extra para evitar mostrar arquivos inválidos</string>
-    <string name="show_at_bottom">Show some action buttons at the bottom of the screen</string>
-    <string name="show_recycle_bin">Show the Recycle Bin at the folders screen</string>
-    <string name="deep_zoomable_images">Deep zoomable images</string>
-    <string name="show_highest_quality">Show images in the highest possible quality</string>
-    <string name="show_recycle_bin_last">Show the Recycle Bin as the last item on the main screen</string>
-    <string name="allow_down_gesture">Allow closing the fullscreen view with a down gesture</string>
-    <string name="allow_one_to_one_zoom">Allow 1:1 zooming in with two double taps</string>
-    <string name="open_videos_on_separate_screen">Always open videos on a separate screen with new horizontal gestures</string>
+    <string name="show_at_bottom">Mostrar alguns botões de ação na parte inferior da tela</string>
+    <string name="show_recycle_bin">Mostrar a Lixeira na tela das pastas</string>
+    <string name="deep_zoomable_images">Imagens com zoom profundo disponível</string>
+    <string name="show_highest_quality">Mostrar imagens com a maior qualidade de resolução possível</string>
+    <string name="show_recycle_bin_last">Mostrar a Lixeira como o último item na tela principal</string>
+    <string name="allow_down_gesture">Permitir fechar o modo de tela cheia com um gesto para baixo</string>
+    <string name="allow_one_to_one_zoom">Permitir zoom de 1:1 com dois toques na tela</string>
+    <string name="open_videos_on_separate_screen">Sempre abrir vídeos em tela separada com um gesto horizontal</string>
 
     <!-- Setting sections -->
     <string name="thumbnails">Miniaturas</string>
     <string name="fullscreen_media">Mídia em tela cheia</string>
     <string name="extended_details">Detalhes extendidos</string>
-    <string name="bottom_actions">Bottom actions</string>
+    <string name="bottom_actions">Ações inferiores</string>
 
     <!-- Bottom actions -->
-    <string name="manage_bottom_actions">Manage visible bottom actions</string>
-    <string name="toggle_favorite">Toggle favorite</string>
-    <string name="toggle_file_visibility">Toggle file visibility</string>v
+    <string name="manage_bottom_actions">Gerenciar ações inferiores visíveis</string>
+    <string name="toggle_favorite">Alternar para favoritos</string>
+    <string name="toggle_file_visibility">Alternar para visibilidade dos arquivos</string>v
 
     <!-- FAQ -->
-    <string name="faq_1_title">How can I make Simple Gallery the default device gallery?</string>
-    <string name="faq_1_text">First you have to find the currently default gallery in the Apps section of your device settings, look for a button that says something like \"Open by default\", click on it, then select \"Clear defaults\".
-        The next time you will try opening an image or video you should see an app picker, where you can select Simple Gallery and make it the default app.</string>
-    <string name="faq_2_title">I locked the app with a password, but I forgot it. What can I do?</string>
-    <string name="faq_2_text">You can solve it in 2 ways. You can either reinstall the app, or find the app in your device settings and select \"Clear data\". It will reset all your settings, it will not remove any media files.</string>
-    <string name="faq_3_title">How can I make an album always appear at the top?</string>
-    <string name="faq_3_text">You can long press the desired album and select the Pin icon at the actionmenu, that will pin it to the top. You can pin multiple folders too, pinned items will be sorted by the default sorting method.</string>
-    <string name="faq_4_title">How can I fast-forward videos?</string>
-    <string name="faq_4_text">You can either drag your finger horizontally over the video player, or click on the current or max duration texts near the seekbar. That will move the video either backward, or forward.</string>
-    <string name="faq_5_title">What is the difference between hiding and excluding a folder?</string>
-    <string name="faq_5_text">Exclude prevents displaying the folder only in Simple Gallery, while Hide works system-wise and it hides the folder from other galleries too. It works by creating an empty \".nomedia\" file in the given folder, which you can then remove with any file manager too.</string>
-    <string name="faq_6_title">Why do folders with music cover art or stickers show up?</string>
-    <string name="faq_6_text">It can happen that you will see some unusual albums show up. You can easily exclude them by long pressing them and selecting Exclude. In the next dialog you can then select the parent folder, chances are it will prevent the other related albums showing up too.</string>
-    <string name="faq_7_title">A folder with images isn\'t showing up, what can I do?</string>
-    <string name="faq_7_text">That can have multiple reasons, but solving it is easy. Just go in Settings -> Manage Included Folders, select Plus and navigate to the required folder.</string>
-    <string name="faq_8_title">What if I want just a few particular folders visible?</string>
-    <string name="faq_8_text">Adding a folder at the Included Folders doesn\'t automatically exclude anything. What you can do is go in Settings -> Manage Excluded Folders, exclude the root folder \"/\", then add the desired folders at Settings -> Manage Included Folders.
-        That will make only the selected folders visible, as both excluding and including are recursive and if a folder is both excluded and included, it will show up.</string>
-    <string name="faq_10_title">Can I crop images with this app?</string>
-    <string name="faq_10_text">Yes, you can crop images in the editor, by dragging the image corners. You can get to the editor either by long pressing an image thumbnail and selecting Edit, or selecting Edit from the fullscreen view.</string>
-    <string name="faq_11_title">Can I somehow group media file thumbnails?</string>
-    <string name="faq_11_text">Sure, just use the \"Group by\" menu item while at the thumbnails view. You can group files by multiple criteria, including Date Taken. If you use the \"Show all folders content\" function you can group them by folders too.</string>
-    <string name="faq_12_title">Sorting by Date Taken doesn\'t seem to work properly, how can I fix it?</string>
-    <string name="faq_12_text">It is most likely caused by the files being copied from somewhere. You can fix it by selecting the file thumbnails and selecting \"Fix Date Taken value\".</string>
-    <string name="faq_13_title">I see some color banding on the images. How can I improve the quality?</string>
-    <string name="faq_13_text">The current solution for displaying images works fine in the vast majority of cases, but if you want even better image quality, you can enable the \"Show images in the highest possible quality\" at the app settings, in the \"Deep zoomable images\" section.</string>
-    <string name="faq_14_title">I have hidden a file/folder. How can I unhide it?</string>
-    <string name="faq_14_text">You can either press the \"Temporarily show hidden items\" menu item at the main screen, or toggle \"Show hidden items\" in the app settings to see the hidden item. If you want to unhide it, just long press it and select \"Unhide\". Folders are hidden by adding a hidden \".nomedia\" file into them, you can delete the file with any file manager too.</string>
+    <string name="faq_1_title">Como posso tornar a Simple Gallery como a galeria padrão do meu dispositivo?</string>
+    <string name="faq_1_text">Primeiro, você deve localizar a atual galeria padrão na seção de Aplicativos dentro das configurações do seu dispositivo, e então localizar um botão que diz algo como \"Abrir por padrão\", clicar nele, e selecionar \"Limpar padrões\".
+        Na próxima vez que tentar abrir uma imagem ou vídeo você deve ver uma lista de opções, onde poderá selecionar a Simple Gallery e torná-la a galeria padrão.</string>
+    <string name="faq_2_title">Eu protegi o aplicativo com uma senha, mas a esqueci. O que posso fazer?</string>
+    <string name="faq_2_text">Você pode resolver isso de duas maneiras. Você pode reinstalar o aplicativo, ou encontrar o aplicativo nas configurações do seu dispositivo e selecionar \"Limpar dados\". Isso resetará todas as configurações, mas não removerá seus arquivos.</string>
+    <string name="faq_3_title">Como posso fazer um album sempre aparecer no topo?</string>
+    <string name="faq_3_text">Você pode pressionar e segurar  sobre o album desejado e selecionar o ícone de alfinete no menu de ações, para fixá-lo no topo. Você pode fixar múltiplas pastas também, e os itens fixados serão ordenados pelo método padrão.</string>
+    <string name="faq_4_title">Como posso avançar a reprodução dos vídeos?</string>
+    <string name="faq_4_text">Você pode arrastar com os dedos horizontalmente sobre o player de vídeo, ou clicar nos textos de duração atual ou máxima próximos da barra de pesquisa. Isso avançará ou retrocederá o vídeo.</string>
+    <string name="faq_5_title">Qual a diferença entre ocultar e excluir uma pasta?</string>
+    <string name="faq_5_text">Excluir impede que a pasta seja mostrada apenas na Simple Gallery, enquanto Ocultar funciona em todo o sistema e oculta a pasta das outras galerias também. Ela funciona criando um arquivo \".nomedia\" vazio na pasta selecionada, que você pode remover com qualquer gerenciador de arquivos.</string>
+    <string name="faq_6_title">Por quê as pastas com arte de capa de músicas ou adesivos são mostradas?</string>
+    <string name="faq_6_text">Pode acontecer que você veja alguns álbuns incomuns aparecendo. Você pode facilmente excluí-los tocando o dedo e segurando sobre eles e selecionando Excluir. Na próxima caixa de diálogo, você pode selecionar a pasta pai, mas as chances são que, provavelmente, isso impedirá que os outros álbuns relacionados sejam exibidos também.</string>
+    <string name="faq_7_title">Uma pasta com imagens não está aparecendo, o que posso fazer?</string>
+    <string name="faq_7_text">Isso pode ter vários motivos, mas é fácil resolver. Basta ir em Configurações -> Gerenciar Pastas Incluídas, selecione Mais e navegar até a pasta desejada.</string>
+    <string name="faq_8_title">E se eu quiser que apenas algumas pastas particulares fiquem visíveis?</string>
+    <string name="faq_8_text">Adicionar uma pasta às Pastas Incluídas não exclui automaticamente nada. O que você pode fazer é ir até Configurações -> Gerenciar Pastas Excluídas, e excluir a pasta raiz \"/\", e então adicionar as pastas desejadas em Configurações -> Gerenciar Pastas Incluídas.
+         Isso fará com que apenas as pastas selecionadas sejam visíveis, já que excluir e incluir são funções recursivas e, caso uma pasta seja excluída e incluída, ela será exibida.</string>
+    <string name="faq_10_title">Posso recortar imagens com esse aplicativo?</string>
+    <string name="faq_10_text">Sim, você pode cortar imagens no editor, arrastando os cantos da imagem. Você pode acessar o editor pressionando uma miniatura da imagem e selecionando Editar, ou selecionando Editar no modo de tela cheia.</string>
+    <string name="faq_11_title">Posso de alguma forma agrupar miniaturas de arquivos de mídia?</string>
+    <string name="faq_11_text">Claro, basta usar o item \"Agrupar por\" do menu enquanto estiver na exibição de miniaturas. Você pode agrupar arquivos por vários critérios, incluindo por data. Se utilizar a função \"Mostrar todos os conteúdos das pastas\", também poderá agrupá-las por pastas.</string>
+    <string name="faq_12_title">Ordenar por data não parece funcionar corretamente, como posso corrigir isso?</string>
+    <string name="faq_12_text">É mais provável que isso seja causado pelos arquivos serem copiados de algum lugar. Você pode corrigir isso selecionando as miniaturas de arquivos e selecionando \"Corrigir o valor de data atribuído\".</string>
+    <string name="faq_13_title">Eu vejo algumas faixas de cores nas imagens. Como posso melhorar a qualidade?</string>
+    <string name="faq_13_text">A solução atual para a exibição de imagens funciona bem na grande maioria dos casos, mas caso queira uma melhor qualidade de imagem, você pode ativar \"Mostrar imagens com a maior qualidade de resolução possível\" nas configurações do aplicativo, na seção \"Imagens com zoom profundo disponível\".</string>
+    <string name="faq_14_title">Eu ocultei um arquivo/pasta. Como posso mostrar novamente?</string>
+    <string name="faq_14_text">Você pode selecionar \"Mostrar itens ocultos temporariamente\" no menu na tela principal, ou alternar a opção \"Mostrar itens ocultos\" nas configurações do aplicativo para ver o item oculto. Caso queira re-exibir, basta pressionar e selecionar "Mostrar". As pastas são ocultadas adicionando um arquivo oculto \".nomedia\" a elas, e você também pode excluir o arquivo com qualquer gerenciador de arquivos.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">An offline gallery for managing your files without ads, respecting your privacy.</string>
+    <string name="app_short_description">Uma galeria offline para gerenciar seus arquivos sem anúncios, respeitando sua privacidade.</string>
     <string name="app_long_description">
-        A highly customizable gallery capable of displaying many different image and video types including SVGs, RAWs, panoramic photos and videos.
+         Uma galeria altamente personalizável capaz de exibir muitos tipos diferentes de imagem e vídeo, incluindo SVGs, RAWs, fotos panorâmicas e vídeos.
 
-        It is open source, contains no ads or unnecessary permissions.
+        É de código aberto, não contém anúncios ou permissões desnecessárias.
 
-        Let\'s list some of its features worth mentioning:
-        1. Search
-        2. Slideshow
-        3. Notch support
-        4. Pinning folders to the top
-        5. Filtering media files by type
-        6. Recycle bin for easy file recovery
-        7. Fullscreen view orientation locking
-        8. Marking favorite files for easy access
-        9. Quick fullscreen media closing with down gesture
-        10. An editor for modifying images and applying filters
-        11. Password protection for protecting hidden items or the whole app
-        12. Changing the thumbnail column count with gestures or menu buttons
-        13. Customizable bottom actions at the fullscreen view for quick access
-        14. Showing extended details over fullscreen media with desired file properties
-        15. Several different ways of sorting or grouping items, both ascending and descending
-        16. Hiding folders (affects other apps too), excluding folders (affects only Simple Gallery)
+        Vamos listar alguns de seus recursos que valem a pena mencionar:
+        1. Pesquisa
+        2. Mostra em slides
+        3. Suporte Notch
+        4. Fixar pastas no topo da janela
+        5. Filtrar arquivos de mídia por tipo
+        6. Lixeira para recuperação fácil de arquivos
+        7. Bloqueio do modo de orientação na tela cheia
+        8. Marcar arquivos favoritos para facilitar o acesso
+        9. Fechar rapidamente mídia em tela cheia com gesto para baixo
+        10. Um editor para modificar imagens e aplicar filtros
+        11. Proteção por senha para proteger itens ocultos ou o aplicativo inteiro
+        12. Alterar a contagem da coluna de miniaturas com gestos ou botões do menu
+        13. Ações inferiores personalizáveis na visualização em tela cheia para acesso rápido
+        14. Mostrar detalhes extendidos sobre a mídia em tela cheia, com propriedades de arquivo desejadas
+        15. Diversas maneiras diferentes de classificar ou agrupar itens, tanto ascendentes quanto descendentes
+        16. Esconder pastas (afetando outros aplicativos também), excluir pastas (afetando apenas o Simple Gallery)
 
-        The fingerprint permission is needed for locking either hidden item visibility, the whole app, or protecting files from being deleted.
+        A permissão de impressão digital é necessária para bloquear a visibilidade de itens ocultos, o aplicativo inteiro ou proteger os arquivos contra exclusão.
 
-        This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
+        Este aplicativo é apenas um pedaço de uma série maior de aplicativos. Você pode encontrar o restante deles em https://www.simplemobiletools.com
     </string>
 
     <!--
